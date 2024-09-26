@@ -1,0 +1,6 @@
+framework module spectrumlib {
+  umbrella header "SMSpectrumModuleExport.h"
+
+  export *
+  module * { export * }
+}

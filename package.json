@@ -1,0 +1,17 @@
+{
+  "name": "com.neurotech.spectrumlib",
+  "version": "1.0.0",
+  "displayName": "SpectrumLib",
+  "description": "Mathematical library for calculating the EEG signal spectrum",
+  "unity": "2020.1",
+  "dependencies": {},
+ "keywords": [
+    "spectrum",
+    "signal"
+  ],
+  "author": {
+    "name": "BrainBit LLC",
+    "email": "support@brainbit.com",
+    "url": "https://gitlab.com/neurosdk2/neurosamples"
+  }
+}
